@@ -1,3 +1,6 @@
 Distribution of Tasks
 
-who is pull which restauraunts?
+Lauren = 18, 17, 16, 15
+Dimas = 14, 13, 12, 11, 10
+Paolo = 9, 8, 7, 6, 5
+Charla = 4, 3, 2, 1, 0
