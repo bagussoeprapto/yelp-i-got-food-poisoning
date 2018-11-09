@@ -25,7 +25,7 @@ We combined 2 data sets and 19 calls to Yelp's API (in sets of 5,000) to create 
 
 Our main data points involve inspection scores/grades and Yelp ratings. Turns out the average inspection ranks higher than most average restaurants. Then we looked at each restaurant.
 
-![snippet](Images/python_snippet.jpg)
+![snippet](Images/python_snippet.JPG)
 
 When visualizing the Health Scores and the Yelp Reviews as heat maps, no trend is immediately apparent -- except that there are a lot of restaurants with good grades and good reviews in LA.
 
