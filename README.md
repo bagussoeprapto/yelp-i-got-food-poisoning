@@ -30,10 +30,10 @@ Our main data points involve inspection scores/grades and Yelp ratings. Turns ou
 When visualizing the Health Scores and the Yelp Reviews as heat maps, no trend is immediately apparent -- except that there are a lot of restaurants with good grades and good reviews in LA.
 
 #### Health Score Map
-![health](Images/Health Score Heatmap.png)
+![health](Images/Health_Score_Heatmap.png)
 
 #### Yelp Review Map
-![yelp](Images/Yelp Rating Heatmap.png)
+![yelp](Images/Yelp_Rating_Heatmap.png)
 
 Since we saw no trend, we visualized the reviews according to Health Score. Again, no distinct trend emerges.
 
@@ -56,7 +56,7 @@ Since our initial observations were not yielding much, we then performed statist
 The densest part shows most health scores are in the low 90s (“A”) and most Yelp ratings are 4-stars. The line of best fit is, in fact, not a good fit as the data is spread everywhere.
 Statisically speaking:
 
-![t](Images/stat_table.jpg)
+![t](Images/stat_table.JPG)
 
 Since we were not seeing any health score correlation, we pivoted to price point. Distribution of restaurants in each $ group shows similar pattern in that majority are categorized in 3–4 ratings regardless of the price point.
 
